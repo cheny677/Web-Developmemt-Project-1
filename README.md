@@ -1,4 +1,12 @@
-# 309project-team43 (built by a group of 4 people, with me bing a participant)
+# 309project-team43
+
+## Contributors
+
+This project exists thanks to all the teammates:
+- [Yutong Chen](https://github.com/cheny677)
+- [Changhao Song](https://github.com/Svision)
+- [Leo](https://github.com/leojilong)
+- [Kaitlyn Mi](https://github.com/kaitlynmi)
 
 ## Setup
 Start your local Mongo database.  For example, in a separate terminal window:
