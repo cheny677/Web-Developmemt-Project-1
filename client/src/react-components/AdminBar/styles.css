@@ -1,0 +1,20 @@
+.menu {
+    position: absolute;
+  
+}
+
+.title {
+    position: relative;
+    left: 50px;
+}
+
+.accountbox {
+    position: absolute;
+    right: 30px;
+}
+
+.inputInput {
+    left: 20px;
+    width: 95%;
+    
+}

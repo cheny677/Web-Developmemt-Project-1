@@ -1,0 +1,26 @@
+.root {
+    max-width: 100%;
+}
+
+.media {
+    height: 340px;
+    padding-top : '56.25%';
+
+}
+
+
+.avatar {
+
+    background-color: royalblue;
+}
+
+.likes{
+    padding-left: 3px;
+    font-size: initial;
+}
+
+.card_actions{
+    padding: 0px;
+    padding-left: 10px;
+    justify-content: flex-end;
+}

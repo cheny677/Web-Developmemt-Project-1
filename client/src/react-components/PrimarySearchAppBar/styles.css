@@ -1,0 +1,18 @@
+
+.inputInput {
+    left: 20px;
+    width: 95%;
+    
+}
+
+.notifybox {
+    position: absolute;
+    top:8px;
+    right: 80px;
+}
+
+.profilebox {
+    position: absolute;
+    top:8px;
+    right: 30px;
+}

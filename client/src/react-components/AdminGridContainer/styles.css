@@ -1,0 +1,17 @@
+.container{
+    /* position: absolute; */
+    display: flex;
+    flex-wrap: 'wrap';
+    justify-content: space-around;
+    align-content: space-around;
+    height: fit-content;
+}
+
+
+.gridList {
+    overflow:visible;
+    width: fit-content;
+    height: auto;
+    justify-content: space-around;
+    align-content: flex-start;
+}

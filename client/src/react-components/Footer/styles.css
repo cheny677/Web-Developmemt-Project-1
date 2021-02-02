@@ -1,0 +1,41 @@
+.main_footer{
+    color: navy;
+    background-color: white;
+    padding-top: 3px;
+    position: relative;
+    bottom: 0;
+    width: 100%;
+}
+
+.footer_container{
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+.row{
+    flex-direction: row;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+}
+
+.column{
+
+}
+
+.list{
+    list-style-type: none;
+    font-size: small;
+    
+}
+
+
+li{
+    margin: 10px 0;
+    color: gray;
+}
+
+li:hover{
+    color: navy;
+}

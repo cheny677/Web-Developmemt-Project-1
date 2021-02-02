@@ -1,0 +1,22 @@
+.gridcontainer {
+    position: absolute;
+    top: 100px;
+}
+
+.page_container{
+    overflow: hidden;
+    position: relative;
+    width: 100%;
+}
+
+.gridcontainer{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+
+.solid_background{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background-color: gainsboro;
+}

@@ -1,0 +1,12 @@
+.Add {
+    position: fixed;
+    bottom: 30px;
+    right: 20px;
+}
+
+
+.mainbuttons {
+    position: absolute;
+    top: 100px;
+    right: 0px;
+}
