@@ -1,4 +1,4 @@
-# 309project-team43
+# 309project-team43 (built by a group of 4 people, with me bing a participant)
 
 ## Setup
 Start your local Mongo database.  For example, in a separate terminal window:
